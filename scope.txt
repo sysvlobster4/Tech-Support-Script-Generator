@@ -1,0 +1,2 @@
+# Project Update
+Standardize font sizes for H1-H6 tags
